@@ -1,0 +1,3 @@
+# pygame_data_visualization
+我觉得用pygame容易些
+用pygame实现比较流行的条形图的数据可视化
